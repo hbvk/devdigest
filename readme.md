@@ -1,0 +1,2 @@
+# P4C developer digest sample application
+Quick demo to illustrate use of `RequestLoggingFilter` to log API usage, `HandlerInterceptor` to log usage of deprecated API usage, centralized `@ExceptionHandler` to centralize exception handling. 
